@@ -1,4 +1,4 @@
-# excalidraw issue 7312
+# excalidraw issue [7312](https://github.com/excalidraw/excalidraw/issues/7312)
 
 to run the project 
 ```bash
